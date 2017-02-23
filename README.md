@@ -4,14 +4,14 @@ TipUP is a tip calculator application for iOS.
 
 Submitted by: NICOLE ALEXANDER
 
-Time spent: 4 hours spent in total
+Time spent: 6 hours spent in total
 
 ## User Stories
 
-The following functionality is complete:
+The following **required** functionality is complete:
 
-1. User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-2. Settings page to change the default tip percentage.
+[x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+[x] Settings page to change the default tip percentage.
 
 The following **optional** features are implemented:
 * [ ] UI animations
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='/tipUP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/tresjoliebabe/code-dump/blob/master/tipUP.gif.' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -37,7 +37,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
