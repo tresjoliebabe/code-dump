@@ -4,7 +4,7 @@ TipUP is a tip calculator application for iOS.
 
 Submitted by: NICOLE ALEXANDER
 
-Time spent: 18 hours spent in total
+Time spent: 24 hours spent in total
 
 ## User Stories
 
@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 [x] List anything else that you can get done to improve the app functionality!
-Added a currency setting for Euros.
+Currency setting for Euros.
 
 ## Video Walkthrough 
 
