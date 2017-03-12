@@ -34,8 +34,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-Using xcode 8:
-Warning: Multiple build commands for output file /Users/NicoleA/Library/Developer/Xcode/DerivedData/tipUp-ddnypdiyoafwufcdbhbdrlstzcjt/Build/Products/Debug-iphonesimulator/tipUp.app/tipUp
 
 ## License
 
