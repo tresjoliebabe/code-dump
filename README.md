@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] List anything else that you can get done to improve the app functionality! A currency setting for Dollars and Euros.
+- [X] List anything else that you can get done to improve the app functionality! A currency setting for Dollars and Euros; and Dark and Light themes.
 
 ## Video Walkthrough 
 
