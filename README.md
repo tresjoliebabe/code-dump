@@ -4,7 +4,7 @@
 
 Submitted by: **Nicole Alexander**
 
-Time spent: **24** hours spent in total
+Time spent: **25** hours spent in total
 
 ## User Stories
 
@@ -49,4 +49,4 @@ Describe any challenges encountered while building the app.
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
-    limitations under the License√https://github.com/tresjoliebabe/code-dump/blob/master/tipUP-3.0.gif.
+    limitations under the License√https://github.com/tresjoliebabe/code-dump/blob/master/tipUP-4.0.gif.
